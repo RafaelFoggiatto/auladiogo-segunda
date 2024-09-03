@@ -1,0 +1,7 @@
+### Requisicao para a raiz da aplicacao
+GET http://localhost:5143
+
+
+### Requisicao para a segunda raiz
+GET http://localhost:5143
+ 
